@@ -1,0 +1,266 @@
+/* 
+ Author:Md.Mehedi Hasan
+ Email:mehedi.webdoc@gmail.com
+ Country:Bangladesh
+*/
+
+/*
+ =============== Index =======
+ 1.Global CSS
+ 2.Header Section
+ 3.Banner Section
+ 4.About Us Section
+ 5.Practice Area Section
+ 6.Lawyers Section
+ 7.Publication Section
+ 8.FAQ Section
+ 9.Contact Us Section
+ 10.Footer Area Section
+*/
+
+/* === 1.Global CSS Start=== */
+ section{
+	 padding:50px 0px;
+ }
+ .img-center{
+	 display:block;
+	 margin:0 auto;
+ }
+ .no-padding{
+	 padding:0px;
+ }
+ 
+ h1{ 
+ }
+ h2{ 
+ }
+ h3{}
+ h4{}
+ h5{}
+ h6{}
+ p{}
+ a{}
+/* === 1.Global CSS End===== */
+
+.hero-area{ 
+ background-image: url(../images/herop-img.png);
+ background-size:cover;
+ background-position:center;
+
+ 
+}
+.hero-area .color-bg{
+	background-color:#F4F4F4;
+}
+.hero-area .baner-content{ 
+ margin:0 auto;
+ text-align:center;
+ color: #fff;
+ padding:150px 0px;
+ 
+}
+ hr{
+	background-color:#ED145B;
+	width:25%;
+}
+.hero-area .hero-btn{
+	background-color:#ED145B;
+	color:#fff;
+	padding-top:10px;
+	padding-bottom:5px;
+	text-align:center;
+	border-radius:50px;
+	cursor:pointer;
+	height:45px;
+	width:140px;
+}
+.btn-hero{
+	padding-top:50px;
+	
+}
+
+
+.free-psd-area{
+	background-color:#F4F4F4;
+	margin-top:-13px;
+
+	
+}
+
+.service-area .service-heading{
+	margin: 0 auto;
+	text-align:center;
+}
+.img-center{
+	display:block;
+	margin:0 auto;
+}
+.service-name{
+	text-align:center;
+}
+.testimonial-area{
+	background-image: url(../images/testimonial-bg.png);
+	background-size:cover;
+	background-position:center;
+}
+.carousel-inner .carousel-item p{
+	margin:0 auto;
+	text-align:center;
+	color:#fff;
+}
+
+.quote-left{
+	color:#fff;
+	margin-left:50%;
+	padding:30px 0px;
+}
+ .pricing-area{    
+   background-color:#F4F4F4;
+ }
+.pricing-heading{
+	margin:0 auto;
+	text-align:center;
+}
+.single-package{
+	text-align:center;
+	display:block;
+	margin:0 auto;
+	background-color:#FFFFFF;
+	box-shadow:3px 3px 3px #f1f1f1;
+}
+.single-package-header{
+	background-color:#5A5A5A;
+	position:relative;
+}
+.single-package-title{
+	color:#fff;
+	padding:30px 0px;
+}
+.single-package-body ul{
+	padding:30px  5px 0px 0px;;
+	
+}
+
+.single-package-body ul li{
+	list-style:none;
+	line-height:45px;
+}
+.buy-btn{
+	padding: 10px 40px;
+	background-color:#ED145B;
+	border-radius:20px;
+	color:#fff;
+	margin:0 auto;
+}
+.buy-one{
+	padding-bottom:30px;
+}
+.standard-btn
+
+.pckg-category{
+	position:absolute;
+	background-color:#F4F4F4;
+	color:#5A5A5A;
+	text-align:center;
+	bottom:-16px;
+	left:10%;
+	padding:8px 15px;
+	width:70%;
+	border-radius:20px;
+	box-shadow:3px 3px 0px #fff;
+	text-transform:uppercase;
+	font-weight:bold;
+}
+.invitation-area{
+	background-color:#ED145B;
+}
+.invitation-area .invitation-text h1{
+	color:#fff;
+}
+.invitation-btn{
+	margin-top:20px;
+}
+.invitation-area .invitation-btn a{
+	background-color:#fff;
+	color:#ED145B;
+	text-transform:uppercase;
+	font-weight:bold;
+	font-size:15px;
+	padding:8px 40px;
+	border-radius:20px;
+	text-decoration:none;
+	cursor:pointer;
+	
+}
+.blog-heading{
+	margin:0 auto;
+	text-align:center;
+}
+.show-more{
+	margin:0 auto;
+	text-align:center;
+}
+.free-psd-template{               
+       background-image: url(../images/free-psd-bg.png);
+	   background-size:cover;
+	   background-position:center;
+	   
+	   
+}
+.free-psd-template .free-psd-info{
+	text-align:center;
+	color:#fff;
+}
+.free-psd-info p,h1{
+	padding:10px 0px;
+}
+.free-psd-info{
+	padding:20px 0px;
+}
+
+.free-psd-info a{
+	background-color:#ED145B;
+	color:#fff;
+	padding:10px 40px;
+	border-radius:20px;
+	text-transform:uppercase;
+	font-size:15px;
+	text-decoration:none;
+	cursor:pointer:
+}
+.download-option p{
+	padding:20px 0px;
+	text-align:justify;
+	font-size:17px;
+}
+.download-option a{
+	background-color:#ED145B;
+	color:#fff;
+	padding:10px 40px;
+	border-radius:20px;
+	text-transform:uppercase;
+	font-size:15px;
+	text-decoration:none;
+	cursor:pointer:
+}
+
+
+
+
+.footer-area{
+	background-color:#2B2B2B;
+	padding:25px 0px;
+}
+
+.footer-area .copyright p{ 
+     color:#fff;
+	 text-align:center;
+}
+.footer-area .author-name p{
+	color:#fff;
+	text-align:center;
+}
+.footer-area .author-name span{
+	color:red;
+	
+}
